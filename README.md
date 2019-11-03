@@ -1,7 +1,7 @@
 # Nutrition and health videos and papers
 
 
-# Fasting
+# Fasting and ketosis
 
 - [Augmented growth hormone secretory burst frequency and amplitude mediate enhanced GH secretion during a two-day fast in normal men](https://www.ncbi.nlm.nih.gov/pubmed/1548337)
 
