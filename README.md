@@ -7,6 +7,10 @@
 
 - [Novel ketone diet enhances physical and cognitive performance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102124/)
 
+- [Resistance to Symptomatic Insulin Reactions after Fasting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC332976/)
+
+## Videos
+
 - [Autophagy, Caloric Restriction Mimetics, Fasting and Protein Acetylation - Guido Kroemer](https://www.youtube.com/watch?v=Gm626MgpveI)
 
 ## Videos
