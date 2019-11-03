@@ -17,7 +17,7 @@
 - [Fasting and Muscle: How Long Term 1-2 Day Fasts BURN FAT but KEEP MUSCLE?](https://youtu.be/HTYv3FcEcus)
 
 
-# (Ashwagandha)[https://examine.com/supplements/ashwagandha/]
+# [Ashwagandha](https://examine.com/supplements/ashwagandha/)
 - [A standardized Withania somnifera extract significantly reduces stress-related parameters in chronically stressed humans: A double-blind, randomized, placebo-controlled study.](https://www.liquidwholefood.com/wp-content/uploads/2013/10/LWFwithania_review.pdf)
 
 - [A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy of a High-Concentration Full-Spectrum Extract of Ashwagandha Root in Reducing Stress and Anxiety in Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3573577/)
