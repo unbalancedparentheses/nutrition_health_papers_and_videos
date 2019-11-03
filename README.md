@@ -50,3 +50,8 @@
 - [Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More](https://youtu.be/zz4YVJ4aRfg)
 
 # Chlorella
+
+# Books
+
+- The Salt Fix: Why the Experts Got It All Wrong--And How Eating More Might Save Your Life - James Dinicolantonio
+- The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It - Kelly McGonigal 
