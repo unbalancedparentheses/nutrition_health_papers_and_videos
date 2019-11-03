@@ -7,29 +7,45 @@
 
 - [Novel ketone diet enhances physical and cognitive performance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102124/)
 
-# Nootropics
-
-## (Ashwagandha)[https://examine.com/supplements/ashwagandha/]
-- [A standardized Withania somnifera extract significantly reduces stress-related parameters in chronically stressed humans: A double-blind, randomized, placebo-controlled study.](https://www.liquidwholefood.com/wp-content/uploads/2013/10/LWFwithania_review.pdf)
-
-- [A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy of a High-Concentration Full-Spectrum Extract of Ashwagandha Root in Reducing Stress and Anxiety in Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3573577/)
-
-
-## Coffee
-- [Coffee induces autophagy in vivo](https://www.ncbi.nlm.nih.gov/pubmed/24769862)
-
-
-## Berberine
-- [Pharmacological effects of berberine on mood disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6307759/)
-
-# Videos
-
 - [Autophagy, Caloric Restriction Mimetics, Fasting and Protein Acetylation - Guido Kroemer](https://www.youtube.com/watch?v=Gm626MgpveI)
 
+## Videos
 - [Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass and Heart Health - Satchin Panda](https://www.youtube.com/watch?v=-R-eqJDQ2nU)
 
 - [Fasting-Mimicking Diet & Fasting for Longevity, Cancer and Multiple Sclerosis - Valter Longo](https://www.youtube.com/watch?v=d6PyyatqJSE)
 
+- [Fasting and Muscle: How Long Term 1-2 Day Fasts BURN FAT but KEEP MUSCLE?](https://youtu.be/HTYv3FcEcus)
+
+
+# (Ashwagandha)[https://examine.com/supplements/ashwagandha/]
+- [A standardized Withania somnifera extract significantly reduces stress-related parameters in chronically stressed humans: A double-blind, randomized, placebo-controlled study.](https://www.liquidwholefood.com/wp-content/uploads/2013/10/LWFwithania_review.pdf)
+
+- [A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy of a High-Concentration Full-Spectrum Extract of Ashwagandha Root in Reducing Stress and Anxiety in Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3573577/)
+
+## Videos
 - [Ashwaganda Benefits: What Ashwagandha Is And How It Works](https://youtu.be/A_lZQgW73y4)
 
-- [Fasting and Muscle: How Long Term 1-2 Day Fasts BURN FAT but KEEP MUSCLE?](https://youtu.be/HTYv3FcEcus)
+
+# Coffee
+- [Coffee induces autophagy in vivo](https://www.ncbi.nlm.nih.gov/pubmed/24769862)
+
+
+# Berberine
+- [Pharmacological effects of berberine on mood disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6307759/)
+
+# Creatine
+
+# Bacopa Monnieri 
+
+# Curcumin
+
+# Rhodiola rosea
+
+# Inulin
+
+# Sulforaphane 
+
+## Videos
+- [Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More](https://youtu.be/zz4YVJ4aRfg)
+
+# Chlorella
