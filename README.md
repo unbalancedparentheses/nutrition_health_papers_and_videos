@@ -10,16 +10,13 @@
 - [Resistance to Symptomatic Insulin Reactions after Fasting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC332976/)
 
 ## Videos
-
 - [Autophagy, Caloric Restriction Mimetics, Fasting and Protein Acetylation - Guido Kroemer](https://www.youtube.com/watch?v=Gm626MgpveI)
 
-## Videos
 - [Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass and Heart Health - Satchin Panda](https://www.youtube.com/watch?v=-R-eqJDQ2nU)
 
 - [Fasting-Mimicking Diet & Fasting for Longevity, Cancer and Multiple Sclerosis - Valter Longo](https://www.youtube.com/watch?v=d6PyyatqJSE)
 
 - [Fasting and Muscle: How Long Term 1-2 Day Fasts BURN FAT but KEEP MUSCLE?](https://youtu.be/HTYv3FcEcus)
-
 
 # [Ashwagandha](https://examine.com/supplements/ashwagandha/)
 - [A standardized Withania somnifera extract significantly reduces stress-related parameters in chronically stressed humans: A double-blind, randomized, placebo-controlled study.](https://www.liquidwholefood.com/wp-content/uploads/2013/10/LWFwithania_review.pdf)
