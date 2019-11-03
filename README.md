@@ -9,10 +9,18 @@
 
 ### Nootropics
 
+
+## Ashwagandha
 - [A standardized Withania somnifera extract significantly reduces stress-related parameters in chronically stressed humans: A double-blind, randomized, placebo-controlled study.](https://www.liquidwholefood.com/wp-content/uploads/2013/10/LWFwithania_review.pdf)
 
+- [A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy of a High-Concentration Full-Spectrum Extract of Ashwagandha Root in Reducing Stress and Anxiety in Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3573577/)
+
+
+## Coffee
 - [Coffee induces autophagy in vivo](https://www.ncbi.nlm.nih.gov/pubmed/24769862)
 
+
+## Berberine
 - [Pharmacological effects of berberine on mood disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6307759/)
 
 ## Videos
