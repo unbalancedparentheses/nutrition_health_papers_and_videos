@@ -85,3 +85,7 @@
 - [The bacteria in our gut, the human microbiome, churns out tens of thousands of tiny novel proteins so small (< 50 amino acids) they’ve gone unnoticed until now. They belong to over 4,000 new biological families, and may explain how the microbiome affects human health, paving the way for new drugs](http://med.stanford.edu/news/all-news/2019/08/human-microbiome-churns-out-thousands-of-tiny-novel-proteins.html)
 
 - [Poor sleep can negatively affect your gut microbiome, suggests new study. The strong gut-brain bidirectional communication may explain why not getting proper sleep can lead to short term (stress, psychosocial issues) and long-term (cardiovascular disease, cancer) health problems](https://news.nova.edu/news-releases/new-study-points-to-possible-correlation-between-sleep-and-overall-good-health/)
+
+# Cold
+
+- [The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/)
