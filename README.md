@@ -16,11 +16,14 @@
 
 # Fasting and ketosis
 
+- [Effects of Intermittent Fasting on Health, Aging, and Disease - Rafael de Cabo and Mark P. Mattson](https://www.nejm.org/doi/full/10.1056/NEJMra1905136)
+
 - [Augmented growth hormone secretory burst frequency and amplitude mediate enhanced GH secretion during a two-day fast in normal men](https://www.ncbi.nlm.nih.gov/pubmed/1548337)
 
 - [Novel ketone diet enhances physical and cognitive performance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102124/)
 
 - [Resistance to Symptomatic Insulin Reactions after Fasting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC332976/)
+
 
 ## Videos
 - [Autophagy, Caloric Restriction Mimetics, Fasting and Protein Acetylation - Guido Kroemer](https://www.youtube.com/watch?v=Gm626MgpveI)
